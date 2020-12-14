@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+    font-family: Arial;
+    font-weight: 600;
+    color: #59ed9c;
+    min-height: 100vh;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    text-align: center;
+}
