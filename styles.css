@@ -13,8 +13,11 @@ body {
 }
 
 #newestvideo {
-  margin-top: 20px;
   color: #FFFFFF;
+}
+
+h3 {
+  padding-top: 50px;
 }
 
 #noblog {
